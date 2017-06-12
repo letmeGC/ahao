@@ -1,3 +1,3 @@
 <?php
 
-echo "one.php";
+echo "one.php","<hr>";
